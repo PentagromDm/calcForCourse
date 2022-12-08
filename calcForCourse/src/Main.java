@@ -76,7 +76,7 @@ public class Main {
                 case "VII":
                     exp[i]="7";
                     break;
-                case "IIX":
+                case "VIII":
                     exp[i]="8";
                     break;
                 case "IX":
